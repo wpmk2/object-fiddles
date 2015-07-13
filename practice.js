@@ -268,7 +268,7 @@ var bindCard = function(person, creditCard) {
     creditCard: creditCard
   };
   return newAcct;
-}
+};
 
 var myAccount = bindCard(wilson, wilsonCC);
 
